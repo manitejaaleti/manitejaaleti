@@ -1,9 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Maniteja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manitejaaleti&label=Profile%20views&color=0e75b6&style=flat" alt="manitejaaleti" /> </p>
 
 - 🌱 I’m currently learning **DSA**
 
@@ -15,6 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/aletimaniteja14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aletimaniteja14" height="30" width="40" /></a>
 <a href="https://medium.com/@aletimaniteja14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aletimaniteja14" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/maniteja14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maniteja14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@manitejaa75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manitejaa75" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maniteja_aleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maniteja_aleti" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manitejaa75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manitejaa75" height="30" width="40" /></a>
 </p>
