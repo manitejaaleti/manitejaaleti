@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maniteja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![alt text](http://url/to/img.png)
 - 🌱 I’m currently learning **DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@aletimaniteja2004](https://medium.com/@aletimaniteja2004)
