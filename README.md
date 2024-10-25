@@ -1,8 +1,8 @@
 <p align="center">
   <img src="detect-AI-generated-student-work.jpeg" alt="Banner" width="100%" style="border-radius: 10px;/>
 </p>
-<h1 align="center" style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: white;">Hi 👋, I'm Maniteja</h1>
-<h3 align="center" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); color: white;">A passionate frontend developer from India</h3>
+<h1 align="center"  color: white;">Hi 👋, I'm Maniteja</h1>
+<h3 align="center"  color: white;">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **DSA**
 
