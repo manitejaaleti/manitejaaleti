@@ -1,14 +1,14 @@
 <p align="center">
   <img src="detect-AI-generated-student-work.jpeg" alt="Banner" width="100%" style="border-radius: 10px;/>
 </p>
-<h1 align="center">Hi 👋, I'm Maniteja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-![alt text](http://url/to/img.png)
-- 🌱 I’m currently learning **DSA**
+<h1 align="center" style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: white;">Hi 👋, I'm Maniteja</h1>
+<h3 align="center" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); color: white;">A passionate frontend developer from India</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@aletimaniteja2004](https://medium.com/@aletimaniteja2004)
-
-- 📫 How to reach me **aletimaniteja2004@gmail.com**
+<p align="center" style="margin-top: 180px;"> <!-- Add margin to create space below the background -->
+  - 🌱 I’m currently learning **DSA**<br>
+  - 📝 I regularly write articles on [Medium](https://medium.com/@aletimaniteja2004)<br>
+  - 📫 How to reach me: **aletimaniteja2004@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
