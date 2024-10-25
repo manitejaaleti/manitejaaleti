@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="detect-AI-generated-student-work.jpeg" alt="Banner" width="800"/>
-</p>image 
+  <img src="detect-AI-generated-student-work.jpeg" alt="Banner" width="100%" style="border-radius: 10px;/>
+</p>
 <h1 align="center">Hi 👋, I'm Maniteja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 ![alt text](http://url/to/img.png)
