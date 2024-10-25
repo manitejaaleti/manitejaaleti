@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=XdOn1%2FPl&id=D6794C4EE4902ECA70DC7D945A157E9CF0D2E62E&thid=OIP.XdOn1_Pl_gL14J1o0GRG_wHaE7&mediaurl=https%3A%2F%2Fwww.ecampusnews.com%2Ffiles%2F2023%2F09%2Fdetect-AI-generated-student-work.jpeg&exph=333&expw=500&q=ai+generated+working+images&simid=607990584873541712&FORM=IRPRST&ck=74433013CAE7D681212F8C10CD0E3F01&selectedIndex=45&itb=0&cw=1289&ch=697&ajaxhist=0&ajaxserp=0" alt="Banner" width="800"/>
+  <img src="detect-AI-generated-student-work.jpeg" alt="Banner" width="800"/>
 </p>image 
 <h1 align="center">Hi 👋, I'm Maniteja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
